@@ -9,3 +9,5 @@ Z
 *contracts/planetary-development-index.clar,5/d/5d74c7d6eed7ef7df647da03cc0372a08ebc66c4
 Y
 )tests/planetary-development-index.test.ts,3/9/397e144519d27ad1295dfb20986d56496d74afde
+`
+0contracts/civilization-advancement-tracking.clar,b/8/b830dcf8431b3f4896557fb7847b36b1dfd97ef3
