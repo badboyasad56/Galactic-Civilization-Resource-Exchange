@@ -11,3 +11,5 @@ Y
 )tests/planetary-development-index.test.ts,3/9/397e144519d27ad1295dfb20986d56496d74afde
 `
 0contracts/civilization-advancement-tracking.clar,b/8/b830dcf8431b3f4896557fb7847b36b1dfd97ef3
+_
+/tests/civilization-advancement-tracking.test.ts,d/2/d2856111553ce1dad7b9663000c72a8a98764a5f
