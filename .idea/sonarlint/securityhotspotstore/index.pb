@@ -7,3 +7,5 @@ a
 0tests/interstellar-resource-tokenization.test.ts,4/b/4b5d94c46ca933d878cdb40df083f7982ecfd533
 Z
 *contracts/planetary-development-index.clar,5/d/5d74c7d6eed7ef7df647da03cc0372a08ebc66c4
+Y
+)tests/planetary-development-index.test.ts,3/9/397e144519d27ad1295dfb20986d56496d74afde
